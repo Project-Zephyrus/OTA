@@ -1,0 +1,8 @@
+----------| Poco X3 Pro |------------
+
+Release : 15-07-2022
+
+• New device tree
+• Improved performance
+• July security patch
+
