@@ -1,0 +1,10 @@
+Release:15/07/2022
+
+
+
+Device Changelog :
+
+•Enabled OTA
+•New Device tree
+•Some optimitation
+
