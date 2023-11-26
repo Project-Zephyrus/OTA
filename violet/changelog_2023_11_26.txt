@@ -1,0 +1,21 @@
+==============================
+Device changes:
+==============================
+- Retrofit Dynamic Build
+- File based Encryption V2
+- Kernel Upstream v4.14.330
+- LA.UM.9.1.r1-14600-SMxxx0.QSSI14.0
+- MiuiCamera Included
+- KernelSU Included
+- More smoother and responsiveness
+- Mics changes and improvement
+
+==============================
+Flash Instructions:
+==============================
+Flash Dynamic supported Recovery.
+Reboot into recovery
+Wipe cache, dalvik, and data
+Flash the dynamic rom
+Format data if encrypted(If want decryption flash DFE v5)
+Reboot into system

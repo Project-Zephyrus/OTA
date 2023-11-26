@@ -12,6 +12,8 @@ Xiaomi Mi 11X NE 5G (Lisa) - [HebrewX](https://t.me/HebrewX)
 
 Redmi Note 10 Pro (sweetin) - [AaRaV](https://t.me/aarav_x)
 
+Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
+
 # Pixel devices
 
 Pixel 4A 5G (Bramble) - [Ziauddin Sameer](https://t.me/Ziauddin_Sameer)
