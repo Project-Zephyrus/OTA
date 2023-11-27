@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Poco F5/Redmi Note 12 Turbo
+Device codename: marble
+Device maintainer: SharmagRit
+
+=×=×= 26th November 2023 =×=×=
+
+Minor Changelogs: * Synced with latest Zephyrus 14.1 with Nov patch changes.
+* Initial official build for marble.
+* Leica Included.
+* Safetynet passed by default.
