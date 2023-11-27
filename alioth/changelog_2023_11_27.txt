@@ -1,0 +1,4 @@
+Device Chnagelogs:
+• Fixed Leica 48mp mode not working
+• Fixed minor bugs 
+• Some more changes i forgot to mention
