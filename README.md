@@ -8,8 +8,6 @@ POCO F3 / Xiaomi Mi 11X / Redmi K40 (alioth) - [Yoriscape](https://t.me/Yoriscap
 
 POCO F5 (Marble) - [SharmagRit](https://t.me/SharmagRit)
 
-Xiaomi Mi 11X NE 5G (Lisa) - [HebrewX](https://t.me/HebrewX)
-
 Redmi Note 10 Pro (sweetin) - [AaRaV](https://t.me/aarav_x)
 
 Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
