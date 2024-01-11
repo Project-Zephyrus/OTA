@@ -1,0 +1,11 @@
+10/01/2024
+-Added dolby atmos
+-Fixed some device side issues
+-Add support for QUICK TAP
+-Update fingerprints
+-Update blobs from MIUI V14.0.9.0.TKFMIXM
+-Drop EROFS support for relevant partitions
+-Disable frame rate override feature
+-Address pixel battery denials
+-Set debug.sf.auto_latch_unsignaled to 0
+-Flash only with given recovery, non-erofs GMS builds
