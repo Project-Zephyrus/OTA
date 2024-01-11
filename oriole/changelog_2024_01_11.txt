@@ -1,0 +1,3 @@
+10/01/24-Hotfix
+- Fixed GoogleRecorder freezing issue
+- ASI -> Presigned
