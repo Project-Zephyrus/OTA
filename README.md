@@ -10,7 +10,7 @@ POCO F5 (Marble) - [SharmagRit](https://t.me/SharmagRit)
 
 Redmi Note 10 Pro (sweetin) - [AaRaV](https://t.me/aarav_x)
 
-Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
+Redmi Note 7 Pro (violet) - [Aryan Biswas](https://t.me/The_Riderrr)
 
 # Pixel devices
 
