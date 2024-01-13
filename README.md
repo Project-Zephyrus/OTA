@@ -14,7 +14,7 @@ Redmi Note 7 Pro (violet) - [Aryan Biswas](https://t.me/The_Riderrr)
 
 # Pixel devices
 
-Pixel 4A 5G (Bramble) - [Ziauddin Sameer](https://t.me/Ziauddin_Sameer)
+Pixel 6 (Oriole) - [Ziauddin Sameer](https://t.me/Ziauddin_Sameer)
 
 # Samsung Devices 
 
