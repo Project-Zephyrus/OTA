@@ -1,0 +1,7 @@
+- Switched to retrofit dynamic partitions
+- Fully fixed instagram and yt playback issues
+- Added support for google dialer call recording
+- Fixed google recorder issues
+- Fixed carrier video calling
+- Added LDAC codec support
+- Improved smoothness and battery backup
