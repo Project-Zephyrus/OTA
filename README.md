@@ -6,7 +6,7 @@ POCO F1 (Beryllium) - [Legendleo90](https://t.me/Legendleo90)
 
 POCO F3 / Xiaomi Mi 11X / Redmi K40 (alioth) - [Yoriscape](https://t.me/Yoriscape)
 
-POCO F5 (Marble) - [SharmagRit](https://t.me/SharmagRit)
+POCO F5 (Marble) - [chaitanya](https://t.me/chaitanyakm)
 
 Redmi Note 10 Pro (sweetin) - [AaRaV](https://t.me/aarav_x)
 
