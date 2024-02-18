@@ -1,0 +1,17 @@
+Date - 18/02/2024
+=================
+- marble: extract-files: fix-up patch
+- marble: update build fingerprint
+- marble: Switch to armv9-a
+- marble: update to hyper os 1.0.2.0.UMRMIXM
+- marble: Set config_displayLightSensorType to xiaomi.sensor.ambientlight.raw
+- marble: Cleanup 32bit libs
+- marble: Switch to 64-bit only builds
+- marble: rootdir: Update performance tuning
+- marble: perf: Bump CPU input boost durations
+- marble: overlay: Sync CarrierConfig with component
+- marble: sepolicy: Address IFAA and soter service denials
+- marble: Enable Pelt8 during boot
+- marble: Add default affinity bootarg for Waipio
+- marble: Silence some spammy logging
+- marble: parts/keyhandler: Guard debug logging
